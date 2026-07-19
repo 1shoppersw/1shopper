@@ -1,0 +1,6 @@
+streamlit
+supabase
+python-dotenv
+beautifulsoup4
+requests
+cloudscraper
